@@ -1,0 +1,16 @@
+{
+  "name": "bodyparser",
+  "version": "1.0.0",
+  "description": "Pegar os dados do formulário de login e senha para cadastrar num banco de dados!",
+  "start": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Marcelo Santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
